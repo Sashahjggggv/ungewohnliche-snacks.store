@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://fruechtesnack.eu/sitemap_index.xml
+Sitemap: https://ungewohnliche-snacks.store/sitemap_index.xml

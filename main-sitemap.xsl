@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Standorte-Sitemap - Fruchte Snack</title>
+						<title>Standorte-Sitemap - Ungewohnliche Snack</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML-Sitemap - Fruchte Snack</title>
+						<title>XML-Sitemap - Ungewohnliche Snack</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
